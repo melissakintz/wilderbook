@@ -1,0 +1,15 @@
+form{
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 2rem;
+    border-radius: 20px;
+    margin:auto;
+
+    button{
+        margin-top: 1rem;
+        width: fit-content;
+        align-self: center;
+    }
+}

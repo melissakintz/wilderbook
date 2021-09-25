@@ -1,0 +1,12 @@
+@import "./colors.scss";
+
+
+.nav{
+    background-color: $wcs-colors;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    color: white;
+    font-variant: small-caps;
+    font-weight: bold;
+}
